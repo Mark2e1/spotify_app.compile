@@ -1,0 +1,8 @@
+# credentials: never commit these
+spotify_token.json
+pkce_verifier.txt
+pkce_state.txt
+
+# build output
+*.o
+spotify_app
